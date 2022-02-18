@@ -8,5 +8,5 @@ Esperando uma oportunidade de primeiro emprego.
 <div align="center">
   <a href="https://github.com/camilacleto">
      <img
-          src="https://w7.pngwing.com/pngs/920/947/png-transparent-touchscreen-information-technology-big-data-others-text-information-technology-data.png" alt="Tecnologia.png" width="45%" height="200 class=" d-inline-block="" align-text-top"="">
+          src="https://hermes.digitalinnovation.one/articles/cover/3bb6516c-ec91-45d7-a06f-b3344f062f3b.png" alt="TI.png" width="45%" height="200 class=" d-inline-block="" align-text-top"="">
          </div>
