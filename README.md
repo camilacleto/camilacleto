@@ -8,5 +8,5 @@ Esperando uma oportunidade de primeiro emprego.
 <div align="center">
   <a href="https://github.com/camilacleto">
      <img
-          src="https://deltime.com.br/wp-content/uploads/2017/08/deltime.png" alt="logotipo-EPSA.png" width="45%" height="200 class=" d-inline-block="" align-text-top"="">
+          src="https://w7.pngwing.com/pngs/920/947/png-transparent-touchscreen-information-technology-big-data-others-text-information-technology-data.png" alt="Tecnologia.png" width="45%" height="200 class=" d-inline-block="" align-text-top"="">
          </div>
