@@ -1,25 +1,28 @@
-- 👋 Oi, Sou a Camila Cleto
+### Oi, sou a Camila Cleto 👋
+
+<--!
+- 🔭 Atualmente não estou trabalhando
+- 🌱 Atualmente estou aprendendo Flutter e Dart.
+- 👯 Estou estudando para me formar como Tecnico de Informatica
 - 😃 Gosto muito de desenvolver projetos na area de TI.
--🌱 Aprendendo Flutter e Dart.
-🧑‍🎓 Estudando para ser um Tecnico em Informatica.
-A procura de uma oportunidade de desenvolver minhas habilidades na area.
-Esperando uma oportunidade de primeiro emprego.
+- Pergunte-me sobre ...
+-->
 
-<div align="center">
-  <a href="https://github.com/camilacleto">
-     <img
-          src="https://www.soway.com.br/wp-content/uploads/2019/08/img1.png" alt="Projeto TI.png" width="45%" height="300class=" d-inline-block="" align-text-top"="">
-         </div>
-         
-   Mapas Floral e Arvvores Frutiferos.
-   Estou desenvolvendo um Aplicativo para mapear Ipês, Flores de todos os tipos, Lindas margaridas e Arvores Frutiferas.
-   Ele vai servir para ajudar os biologos e as pessoas que queriam ver as belezas que existem e não sabem que tem em Belo Horizonte.
+<img src="https://.svg" width="40" height="40"/>
+
+<div>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
-     <img
-          src="" alt=".png" width="45%" height="300class=" d-inline-block="" align-text-top"="">
-         </div>
-
- 
-![](https://github.com/camilacleto/snk/raw/output/github-contribution-grid-snake.svg)
-
-
+  
