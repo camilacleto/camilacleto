@@ -18,7 +18,7 @@
  
      Eu desenvolvendo meu Aplicativo e programando.
  
-     <img src="https://media.tenor.com/images/65017dcbfd593a17fcdcbd5cd54706e4/tenor.png" width="300" height="300"/>
+     <img src="https://media.tenor.com/images/65017dcbfd593a17fcdcbd5cd54706e4/tenor.png" width="200" height="200"/>
  
 
   
