@@ -8,7 +8,7 @@
 -  💬 Aqui você pode fazer uma pergunta sobre mim.
 <--!
 
-<img src="https://www.ohub.com.br/ideias/wp-content/uploads/2019/04/projeto-infraestrutura-ti.png"/>
+    <img src="https://www.ohub.com.br/ideias/wp-content/uploads/2019/04/projeto-infraestrutura-ti.png"/>
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -18,7 +18,13 @@
  
      Eu desenvolvendo meu Aplicativo e programando.
  
- <img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-2.gif" width="300" height="300"/>
+        <img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-2.gif" width="300" height="300"/>
+ 
+ <div>
+<a href="https://github.com/camilacleto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
 
 
