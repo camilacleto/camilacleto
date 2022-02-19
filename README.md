@@ -15,11 +15,13 @@
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 <a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   
-</div>
+
+  </div>![imagem12](https://user-images.githubusercontent.com/99681842/154805363-55551f08-5ad7-472a-95da-427737e1468f.png)
+
 
   
   
-  ![Snake animation](https://github.com/camilacleto/blob/output/github-contribution-grid-snake.svg)
+  
 
 
   
