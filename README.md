@@ -7,6 +7,7 @@
 - 😃 Gosto muito de desenvolver projetos na area de TI.
 -  💬 Aqui você pode fazer uma pergunta sobre mim.
 <--!
+
 <img src="https://www.ohub.com.br/ideias/wp-content/uploads/2019/04/projeto-infraestrutura-ti.png.png" width="400 height="200"/>
 
 <div>
