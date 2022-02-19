@@ -19,3 +19,5 @@ Esperando uma oportunidade de primeiro emprego.
           src="" alt=".png" width="45%" height="300class=" d-inline-block="" align-text-top"="">
          </div>
   
+ ![snake gif](https://github.com/camilacleto/camilacleto/camilacleto/blob/output/github-contribution-grid-snake.svg)
+  
