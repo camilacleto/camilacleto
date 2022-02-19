@@ -16,7 +16,7 @@
     
 ![eu](https://user-images.githubusercontent.com/99681842/154809751-d9984890-7cef-4772-aa68-7057938a433f.png)
  
-<img src="https://media.tenor.com/images/65017dcbfd593a17fcdcbd5cd54706e4/tenor.png" width="300" height="400"/>
+<img src="https://media.tenor.com/images/65017dcbfd593a17fcdcbd5cd54706e4/tenor.png" width="300" height="400"/><p>
                                         
                        
      
