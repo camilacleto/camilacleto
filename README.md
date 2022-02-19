@@ -14,10 +14,13 @@
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-2.gif" width="300" height="300"/>
- Eu desenvolvendo e programando meu Aplicativo.
+ ![eu](https://user-images.githubusercontent.com/99681842/154809751-d9984890-7cef-4772-aa68-7057938a433f.png)
+ 
+     Eu desenvolvendo meu Aplicativo e programando.
+ 
+ <img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-2.gif" width="300" height="300"/>
   
-![eu](https://user-images.githubusercontent.com/99681842/154809751-d9984890-7cef-4772-aa68-7057938a433f.png)
+
 
   
   
