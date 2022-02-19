@@ -18,7 +18,7 @@
   
   Eu desenvolvendo e programando meu Aplicativo.
   
-  <img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-2.gif" width="400" height="400"/>
+  <img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-2.gif" width="300" height="300"/>
 
 
 
