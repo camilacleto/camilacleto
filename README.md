@@ -1,12 +1,10 @@
 ### Oi, sou a Camila Cleto 👋
 
-<--!
 - 🔭 Atualmente não estou trabalhando
 - 🌱 Atualmente estou aprendendo Flutter e Dart.
 - 👯 Estou estudando para me formar como Tecnico de Informatica
 - 😃 Gosto muito de desenvolver projetos na area de TI.
 -  💬 Aqui você pode fazer uma pergunta sobre mim.
-<--!
 
     <img src="https://www.ohub.com.br/ideias/wp-content/uploads/2019/04/projeto-infraestrutura-ti.png"/>
 
