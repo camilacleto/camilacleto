@@ -14,7 +14,8 @@
  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-![eu](https://user-images.githubusercontent.com/99681842/154809751-d9984890-7cef-4772-aa68-7057938a433f.png)
+
+![imagem12](https://user-images.githubusercontent.com/99681842/154810840-275c6db0-0b6b-46af-bc63-e5c26e81ae6a.png)
  
 <img src="https://media.tenor.com/images/65017dcbfd593a17fcdcbd5cd54706e4/tenor.png" width="300" height="400"/>
     
