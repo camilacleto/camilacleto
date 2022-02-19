@@ -17,14 +17,7 @@
 <img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-2.gif" width="300" height="300"/>
  Eu desenvolvendo e programando meu Aplicativo.
   
-  ![68747470733a2f2f692e6962622e636f2f4832566e6e39422f70686f746f2d323032312d31322d32332d31312d30342d31302d72656d6f766562672d707265766965772e706e67](https://user-![github-contribution-grid-snake](https://user-images.githubusercontent.com/99681842/154809692-4f460250-53a6-479e-9b9f-b25a2a36a939.gif)
-
-   
-   
-  
-  
-  
-
+![eu](https://user-images.githubusercontent.com/99681842/154809751-d9984890-7cef-4772-aa68-7057938a433f.png)
 
   
   
