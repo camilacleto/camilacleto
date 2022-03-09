@@ -1,4 +1,4 @@
-### Oi, sou a Camila Cleto 👋
+=### Oi, sou a Camila Cleto 👋
 
 - 🔭 Atualmente não estou trabalhando
 - 🌱 Atualmente estou aprendendo Flutter e Dart.
@@ -6,7 +6,7 @@
 - 😃 Gosto muito de desenvolver projetos na area de TI.
 -  💬 Aqui você pode fazer uma pergunta sobre mim.
 
-    https://code4coders.files.wordpress.com/2019/05/41dca-0pwa-mkfaxyhoiggm.gif
+<img align="left" alt="Gif" src="https://miro.medium.com/max/1400/0*-iDeqMSzELE4DkjA.gif"/>
 
 <div>
  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
