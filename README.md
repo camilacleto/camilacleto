@@ -6,7 +6,7 @@
 - 😃 Gosto muito de desenvolver projetos na area de TI.
 -  💬 Aqui você pode fazer uma pergunta sobre mim.
 
-    <img src="https://www.ohub.com.br/ideias/wp-content/uploads/2019/04/projeto-infraestrutura-ti.png"/>
+    https://code4coders.files.wordpress.com/2019/05/41dca-0pwa-mkfaxyhoiggm.gif
 
 <div>
  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
