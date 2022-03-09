@@ -10,3 +10,8 @@ Eu sou a Camila Delgado!
 <table align="right">
  <tr><td><a href =""github.com/camilacleto">:brazil: Português</a></td></tr>
 </table>
+
+  <h2>:busts_in_silhouette: Onde me encontrar</h2>
+<a href="github.com/camilacleto">
+    <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/Camila?style=social&label=@camila">
+</a>
