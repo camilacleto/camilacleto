@@ -20,5 +20,4 @@ Eu sou a Camila Delgado!
  <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="github.com/camilacleto">
 
-    <img alt="Link para o meu GitHub" src="https://im:g.shields.io/github/followers/Camila?style=social&label=@camila">
-</a>
+   
